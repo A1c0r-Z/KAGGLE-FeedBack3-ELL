@@ -10,3 +10,5 @@ This time I'm going to train more model
 3. deberta-v2-xlarge
 4. roberta-large
 5. distilbert-base-uncased
+
+# LOG
