@@ -1,6 +1,6 @@
 # KAGGLE-FeedBack3-ELL
 This is a conclusion of Feedback Prize - English Language Learning [here](https://www.kaggle.com/competitions/feedback-prize-english-language-learning).\
-During the competition, I got 129/2654 on public lb,but got only 591/2654 on private lb.So I want to do this competition again and make a late submission.
+# OVERVIREW
 ## train
 During the competition I only used deberta-v3-base and deberta-v3-large with mean pooling and attention pooling.\
 This time I'm going to train more model
@@ -12,3 +12,10 @@ This time I'm going to train more model
 5. distilbert-base-uncased
 
 # LOG
+
+
+
+
+
+
+During the competition, I got 129/2654 on public lb,but got only 591/2654 on private lb.So I want to do this competition again and make a late submission.
