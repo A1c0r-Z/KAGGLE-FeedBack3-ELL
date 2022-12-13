@@ -4,6 +4,7 @@ This is a conclusion of Feedback Prize - English Language Learning [here](https:
 # Table of contents
 * [OVERVIEW](#-OVERVIEW)
   - [train](##-train)
+    - [model used](###-model-used)
   - [inference](##-inference)
 * [LOG](#-LOG)
 # OVERVIEW
