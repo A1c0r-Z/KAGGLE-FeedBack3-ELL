@@ -4,6 +4,7 @@ This is a conclusion of Feedback Prize - English Language Learning [here](https:
 # Table of contents
 - [OVERVIEW](#-OVERVIEW)
   -[train](##-train)
+  -[inference](##-inference)
 - [LOG](#-LOG)
 # OVERVIEW
 ## train
@@ -15,7 +16,7 @@ This time I'm going to train more model
 3. deberta-v2-xlarge
 4. roberta-large
 5. distilbert-base-uncased
-
+## inference
 # LOG
 
 
