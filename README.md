@@ -2,7 +2,9 @@
 This is a conclusion of Feedback Prize - English Language Learning [here](https://www.kaggle.com/competitions/feedback-prize-english-language-learning).\
 
 # Table of contents
-1. [OVERVIEW](#-OVERVIEW)
+- [OVERVIEW](#-OVERVIEW)
+  -[train](##-train)
+- [LOG](#-LOG)
 # OVERVIEW
 ## train
 During the competition I only used deberta-v3-base and deberta-v3-large with mean pooling and attention pooling.\
