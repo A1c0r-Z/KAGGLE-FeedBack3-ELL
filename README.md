@@ -3,12 +3,12 @@ This is a conclusion of Feedback Prize - English Language Learning [here](https:
 
 # Table of contents
 * [OVERVIEW](#-OVERVIEW)
-  - [train](##-train)
+  - [Train](##-Train)
     - [model used](###-model-used)
-  - [inference](##-inference)
+  - [Inference](##-Inference)
 * [LOG](#-LOG)
 # OVERVIEW
-## train
+## Train
 During the competition I only used deberta-v3-base and deberta-v3-large with mean pooling and attention pooling.\
 This time I'm going to train more model
 ### model used:
@@ -17,7 +17,7 @@ This time I'm going to train more model
 3. deberta-v2-xlarge
 4. roberta-large
 5. distilbert-base-uncased
-## inference
+## Inference
 # LOG
 
 
