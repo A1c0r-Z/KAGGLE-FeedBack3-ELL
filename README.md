@@ -20,6 +20,7 @@ This time I'm going to train more model
 5. distilbert-base-uncased
 ## Inference
 # LOG
+## 12.17
 Apply different loss rates per target.
 ### Model-1
 info:
