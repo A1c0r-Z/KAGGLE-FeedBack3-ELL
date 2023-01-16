@@ -33,13 +33,27 @@ info:
   cv:0.4502 pb:0.4408 pb:0.4396
  ### Model-2
   1. deberta-v3-base
-  2. attention head
+  2. mean head
   3. layerwise learning rate decay
   4. last layer reinitialization(kaiming normal)
   5. Different loss rates per target `{'cohesion':0.21, 'syntax':0.16, 'vocabulary':0.10, 'phraseology':0.16, 'grammar':0.21, 'conventions':0.16}`
   6. Finetuned with optuna\
   cv:0.4501 
  
+ ### Model-3
+  1. base
+  2. weighted layer
+ 
+ ### Model-4
+  1. large
+  2. mean
+ 
+ ### Model-5
+  1. large
+  2. attention
+ ### Model-6
+  1. large
+  2. weighted layer
 
 
 
